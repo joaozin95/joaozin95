@@ -1,9 +1,10 @@
 ## Bem-vindo(a) ao perfil do João
 
+Estudante de Ciencia da computacão e estagiario de Automacão de Processos
  <div>
    <a href="https://github.com/joaozin95">
-   <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joaozin95=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
-   <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joaozin95=anuraghazra&hide=contribs,prs)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozin95"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?jusername=joaozin95&hide=contribs,prs"/>
 </div>
     
     
@@ -22,6 +23,6 @@
 <div> 
   <a href="https://www.youtube.com/@joaossxavier" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/itsjoaoxavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao.sxavier@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joao.sxavier@yahoo.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-s-xavier" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
