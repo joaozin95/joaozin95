@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do João
 
-Estudante de Ciencia da computacão e estagiario de Automacão de Processos
+Estudante de Ciencia da Computacão e estagiario de Automacão de Processos
  <div>
    <a href="https://github.com/joaozin95">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozin95"/>
