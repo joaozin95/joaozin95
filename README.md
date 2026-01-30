@@ -19,7 +19,7 @@ Estudante de Ciencia da Computacão e estagiario de Automacão de Processos
  
 <br>
  
-### Me segue a gente nas redes abaixo!
+### Me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@joaossxavier" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
